@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ultraken10000
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: ken.idem@gmail.com
